@@ -1,0 +1,58 @@
+.login{
+    text-align: center;
+    background-color:lavender;
+    height: 700px;
+    
+
+}
+input.ng-invalid.ng-touched
+{
+    border-color:red;
+    
+}
+.loginBox{
+    background-color: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 10px;
+    height:400px;
+    width: 400px;
+    display: inline-block;
+    margin: 100px 0;
+    padding: 20px;
+}
+.formField{
+    
+    margin:  5px 10px;
+    text-align: center;
+}
+.form-bg
+{
+    height: auto;
+    width:AUTO;
+}
+.label-class
+{
+    font-size: 20px;
+}
+.formInput{
+    padding: 5px;
+    border-radius: auto;
+    border: 3px solid #c0c0c0;
+    width: 300px;
+
+}
+
+.formButton{
+    color: #fff;
+    background: rgb(100, 230, 143);
+    width: 200px;
+    border: 2px;
+    border-radius: 5px;
+    padding: 15px 10px;
+    margin-top: 15px;;
+}
+.msg{
+    font-size: 12px;
+    color: #00f;
+    margin-top: 15px;;
+}

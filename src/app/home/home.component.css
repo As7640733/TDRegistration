@@ -1,0 +1,37 @@
+.first
+{
+text-align: center;
+background-color:lavender;
+height: 800px;
+width:1200px;
+padding-left: 50px;
+margin-left: 200px;
+
+}
+.menu1
+{ 
+    padding-top: 180px;
+    margin-top: 200px;
+    margin-left: 150px;
+    height: 400px;
+    width:400px;
+    border :1px solid black;
+    border-radius: 250px;
+    float: left;
+    background-image: url(src\assets\images\logo_black.png);
+
+}
+.menu2{
+    background-image: url(src\assets\images\logo_black.png);
+    opacity: inherit;
+padding-top: 180px;
+margin-left: 100px;
+margin-top: 200px;
+    height: 400px;
+    width:400px;
+    border :1px solid black;
+    border-radius: 250px;
+    
+    
+    float: left;
+}
